@@ -1,0 +1,1 @@
+/Users/kash/Desktop/csc363-20241-jaswalk5/hardware_monitor/target/debug/lineplot: /Users/kash/Desktop/csc363-20241-jaswalk5/hardware_monitor/src/lineplot.rs /Users/kash/Desktop/csc363-20241-jaswalk5/hardware_monitor/src/measurements.rs

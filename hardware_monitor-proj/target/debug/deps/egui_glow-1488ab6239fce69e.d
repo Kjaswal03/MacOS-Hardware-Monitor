@@ -1,0 +1,11 @@
+/Users/kash/Desktop/csc363-20241-jaswalk5/hardware_monitor/target/debug/deps/egui_glow-1488ab6239fce69e.rmeta: /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/lib.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/painter.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/misc_util.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/shader_version.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/vao.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/shader/vertex.glsl /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/shader/fragment.glsl
+
+/Users/kash/Desktop/csc363-20241-jaswalk5/hardware_monitor/target/debug/deps/egui_glow-1488ab6239fce69e.d: /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/lib.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/painter.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/misc_util.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/shader_version.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/vao.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/shader/vertex.glsl /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/shader/fragment.glsl
+
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/lib.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/painter.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/misc_util.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/shader_version.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/vao.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/shader/vertex.glsl:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/egui_glow-0.23.0/src/shader/fragment.glsl:

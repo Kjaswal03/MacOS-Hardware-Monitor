@@ -1,0 +1,13 @@
+/Users/kash/Desktop/hardware_monitor/target/debug/deps/ahash-65ce13a2bde317c3.rmeta: /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/lib.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/convert.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/fallback_hash.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/operations.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/random_state.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/specialize.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/aes_hash.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/hash_map.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/hash_set.rs
+
+/Users/kash/Desktop/hardware_monitor/target/debug/deps/ahash-65ce13a2bde317c3.d: /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/lib.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/convert.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/fallback_hash.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/operations.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/random_state.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/specialize.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/aes_hash.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/hash_map.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/hash_set.rs
+
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/lib.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/convert.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/fallback_hash.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/operations.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/random_state.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/specialize.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/aes_hash.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/hash_map.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.6/src/hash_set.rs:

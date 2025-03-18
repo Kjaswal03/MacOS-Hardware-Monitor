@@ -1,0 +1,22 @@
+[package]
+name = "hardware_monitor-final"
+version = "0.1.0"
+edition = "2021"
+
+
+
+[[bin]]
+name = "binary_name"
+path = "bin/main.rs"
+
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+eframe = "0.23.0"
+egui = "0.23.0"
+egui_plot = "0.23.0"
+sysinfo = "0.29.8"
+
+

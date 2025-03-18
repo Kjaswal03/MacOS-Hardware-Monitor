@@ -1,0 +1,13 @@
+/Users/kash/Desktop/csc363-20241-jaswalk5/hardware_monitor/target/debug/deps/emath-17dc1d80bc382698.rmeta: /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/lib.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/align.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/numeric.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/pos2.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/rect.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/rect_transform.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/rot2.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/smart_aim.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/vec2.rs
+
+/Users/kash/Desktop/csc363-20241-jaswalk5/hardware_monitor/target/debug/deps/emath-17dc1d80bc382698.d: /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/lib.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/align.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/numeric.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/pos2.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/rect.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/rect_transform.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/rot2.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/smart_aim.rs /Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/vec2.rs
+
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/lib.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/align.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/numeric.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/pos2.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/rect.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/rect_transform.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/rot2.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/smart_aim.rs:
+/Users/kash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/emath-0.19.0/src/vec2.rs:
